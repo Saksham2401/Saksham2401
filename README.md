@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saksham</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe">
+<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/PitifulThunderousHylaeosaurus-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham2401&label=Profile%20views&color=0e75b6&style=flat" alt="saksham2401" /> </p>
 
